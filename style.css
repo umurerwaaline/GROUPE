@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.magic{
+    width: 1338px;
+    height: 60px;
+    padding: 14px;
+    margin: 2px;
+    background-color: lightgray;
+    border-radius: 0;
+    display: flex;
+    margin: 0;
+    border-color: white;
+}
+.menubar{
+     width: 40px;
+     height: 50px;
+    cursor: pointer;
+    position: relative;
+    top: 5px;
+}
+.you{
+    width: 60px;
+    cursor: pointer;
+    position: relative;
+}
+.king{
+    width: 60px;
+    cursor: pointer;
+    position: relative;
+    right: 10px;
+}
+.kingz{
+    width: 60%;
+    height: auto;
+    padding: 14px;
+    margin: 2px;
+    display: flex;
+    padding: 10px;
+    margin: auto;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    transform: translate(55px);
+}
+.kingz input{
+    width: 75%;
+    height: 10px;
+    display: flex;
+    padding: 10px;
+    margin: auto;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    right: 60px;
+    margin-left: 23px;
+    cursor: text;
+    transform: translate;
+    background-color: darkgray;
+    border-color: grey;
+    color: white;
+} 
+.shax{
+    width: 13px;
+    height: 12px;
+    cursor: pointer;
+    position: relative;
+    right: 150px;
+    color: black;
+}
+.sami{
+    width: 25px;
+    height: 15px;
+    cursor: pointer;
+    position: relative;
+    right: 130px;
+}
+.mit{
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+}
+.noti{
+    width: 20px;
+    height:20px ;
+    cursor:pointer ;
+    position:relative ;
+    left: 100px;
+}
+.aly{
+    width: 30px;
+    height: 25px;
+    cursor: pointer;
+    position: relative;
+
+}
+
+.mama{
+    padding-left: 100px;
+    margin-top: 20px;
+}
+.rr iframe{
+    margin-left: 850px;
+    top: 444px;
+}
+.maso iframe{
+    margin-left: 850px;
+}
+.yes{
+    margin-left: 850px;
+    margin-top:20px;
+}
+}
+}
